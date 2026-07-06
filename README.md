@@ -37,3 +37,4 @@ cd worldcup-odds
 git add .
 git commit -m "initial pipeline"
 git push
+trigger
